@@ -70,8 +70,7 @@ namespace Calculator
                     numInput2 = Console.ReadLine();
                 }
 
-                Console.Write("Type another number, and then press Enter: ");
-                numInput2 = Console.ReadLine();
+
 
                 Console.WriteLine("Choose an operator from the following list:");
                 Console.WriteLine("\ta - Add");
